@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a groupsproject at school where we create a magic the gathering website. You can find the repostitory pinned at my github. I am also working on a console application in c# where I create a library application. I am working on a fake website where I sell magic the gathering cards created with typescript and an API I created myself which is also pinned at my github.
 
-- 🌱 I’m currently learning to work with scrum/agile, C#/OOP, typescript, nodeJS, git and networks at college.
+- 🌱 I’m currently learning to work with scrum/agile, C#/OOP, typescript, nodeJS, express, git, azure and networks at college.
 
 - ⚡ Fun fact: Besides developping I also love playing music and playing magic the gathering.
 <!--
