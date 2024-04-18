@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a groupsproject at school where we create a magic the gathering website. You can find the repostitory pinned at my github. I am also working on a console application in c# where I create a library application. I am working on a fake website where I sell magic the gathering cards created with typescript and an API I created myself which is also pinned at my github.
+- 🔭 I'm currently immersed in a couple of fascinating projects for school. One involves crafting a captivating Magic: The Gathering website with my group. You can easily access our repository on my GitHub profile. Simultaneously, I'm delving into the realm of C# with a console application aimed at managing libraries. On another front, I'm conjuring up a fictitious website dedicated to selling Magic: The Gathering cards. This venture combines TypeScript wizardry with an API of my own design, which you can explore on my GitHub, too.
 
-- 🌱 I’m currently learning to work with scrum/agile, C#/OOP, typescript, nodeJS, express, git, azure and networks at college.
+- 🌱 I'm currently diving deep into a multifaceted learning journey at college. My focus spans a diverse range of subjects including Scrum/Agile methodologies, C# programming with an emphasis on Object-Oriented Programming (OOP), TypeScript for frontend development, NodeJS and Express for backend prowess, mastering Git for version control, navigating Azure for cloud computing, and unraveling the complexities of networks. It's an exciting blend of theory and hands-on practice, shaping me into a well-rounded technologist.
 
-- ⚡ Fun fact: Besides developping I also love playing music and playing magic the gathering.
+- ⚡ Beyond my coding adventures, I find solace and joy in two other passions: making music and delving into the world of Magic: The Gathering.
 <!--
 **ExanFabry/ExanFabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
