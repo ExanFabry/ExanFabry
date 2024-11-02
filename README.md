@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently diving deep into a multifaceted learning journey at college. My focus spans a diverse range of subjects including Scrum/Agile methodologies, C# programming with an emphasis on Object-Oriented Programming (OOP), TypeScript for front and backend development, mastering Git for version control, navigating Azure for cloud computing, testing to make my projects fully functional, cybersecurity to make my projects as safe as possible, and unraveling the complexities of networks. It's an exciting blend of theory and hands-on practice, shaping me into a well-rounded technologist.
 
-- ⚡ Beyond my coding adventures, I find solace and joy in two other passions: making music and delving into the world of Magic: The Gathering.
+- ⚡ Beyond my coding adventures, I find solace and joy in three other passions: creating music, lift heavy weights in the gym and delving into the world of Magic: The Gathering.
 <!--
 **ExanFabry/ExanFabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
